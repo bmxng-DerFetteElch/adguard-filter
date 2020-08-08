@@ -1,0 +1,49 @@
+de.chaturbate.com###footer-holder
+de.chaturbate.com###header > div.nav-bar:last-child
+de.chaturbate.com###header > div.section.clearfix:nth-child(2)
+de.chaturbate.com###footer-holder
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap:last-child > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.premium-overlay:nth-child(13) > iframe.clipstore-results
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.premium-overlay:nth-child(13)
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.premium-overlay:nth-child(18)
+de.xhamster.com##div.main-wrap:nth-child(2) > footer.no-popunder:nth-child(5) > div.bottom-announce.cookie-announce.no-popunder:last-child
+cam4.de.com###app > div.pageContainer > div.pageContent:nth-child(4) > div.Directory__content__n06qv:nth-child(6) > div.Directory__adds__1LzoQ:first-child
+cam4.de.com###app > div.pageContainer > div.pageContent:nth-child(4) > div.PageHeaders__wrapper__o7dG3.Directory__subHeader__3JOfS:nth-child(4)
+cam4.de.com###app > div.pageContainer > div.pageContent:nth-child(4) > div.Directory__footerAds__2vVIj:last-child
+cam4.de.com###E055TFVV_footer
+cam4.de.com###app > div.pageContainer > div.pageContent:nth-child(4) > div.Directory__aboveFooterWrap__32Y0u:nth-child(7)
+cam4.de.com###bh0ndg4p_directoryList_camsWrapper > div.Directory__userTip__2lqOP:first-child
+cam4.de.com###disclaimerModal
+cam4.de.com###promptArea
+cam4.de.com###app > div.pageContainer > div.CookieConsent__wrapper__37z94:nth-child(3)
+@@||www.netflix.com^$important,document,~extension
+cam4.de.com###app > div.pageContainer:first-child > div.pageContent:nth-child(3) > div.PageHeaders__wrapper__o7dG3.Directory__subHeader__3JOfS:nth-child(4)
+cam4.de.com###Cam4DialogContainer
+###videoBannerMidrollAd
+cam4.de.com###app > div.pageContainer:first-child > div.CookieConsent__wrapper__37z94:nth-child(2)
+de.chaturbate.com###eu > div > div:last-child > div:last-child > span > p:nth-child(2) > a
+de.chaturbate.com###eu > div > div:nth-child(15) > div:last-child > span > p:nth-child(8) > a > img
+cam4.de.com###app > div.pageContainer:first-child > div.pageContent:nth-child(3) > div.PageHeaders__wrapper__o7dG3.Directory__subHeader__3JOfS:nth-child(2) > div.PageHeaders__tint__2yy2d > a.PageHeaders__link__3jlv- > div.PageHeaders__title__3xqM_.Directory__innerImage__1fTcq
+cam4.de.com###app > div.pageContainer:first-child > div.pageContent:nth-child(3) > div.PageHeaders__adWrapper__2MSft:nth-child(2)
+cam4.de.com###broadcastingApp > div.chatlessPlayer:nth-child(2) > div.anim_wrapper.bounce-in.birthday_2020_campaign:nth-child(3)
+cam4.de.com###PrimaryDialogContainer
+cam4.de.com###videoBannerMidrollAdWrapper
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container.no-popunder:nth-child(5) > div.wih-spb.wih-spa:last-child
+cam4.de.com###app > div.pageContainer:first-child > div.pageContent:nth-child(3) > div.PageHeaders__adWrapperNew__YZw8P:nth-child(2)
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wih-player.wih-spot-container:nth-child(4)
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.wih-right-rectangle.wih-right-rectangle--backing.wih-static-banner.wih-spot-container:first-child
+de.chaturbate.com###header > div.ad:first-child
+###footer-holder
+start.me##div.app:first-child > div.app__main-layout:last-child > div.app__footer:last-child
+###promptArea
+cam4.de.com###app > div.pageContainer:first-child > div.pageContent:nth-child(3) > div.Directory__content__n06qv:nth-child(4) > div.Directory__adds__1LzoQ:first-child
+###app > div.pageContainer:first-child > div.CookieConsent__wrapper__37z94:nth-child(2)
+###app > div.pageContainer:first-child > div.pageContent:nth-child(3) > div.Directory__content__n06qv:nth-child(4) > div.Directory__aboveFooterWrap__32Y0u:last-child
+###app > div.pageContainer:first-child > div.pageContent:nth-child(3) > div.Directory__footerAds__2vVIj:last-child
+###E055TFVV_footer
+de.chaturbate.com###main > div:last-child > div:nth-child(6) > div:last-child > div.bio-container:nth-child(2) > div > div:nth-child(16) > div:last-child > span > ul:nth-child(3)
+de.chaturbate.com###main > div:last-child > div:nth-child(6) > div:last-child > div.bio-container:nth-child(2) > div > div:nth-child(16) > div:last-child > span
+de.chaturbate.com###main > div:last-child > div:nth-child(6) > div:last-child > div.bio-container:nth-child(2) > div > div:last-child > div:last-child > span > p
+##div.app:first-child > div.app__main-layout:last-child > div.app__footer:last-child
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container.no-popunder:nth-child(4) > div.wih-spb.wih-spa:last-child
+cam4.de.com###relatedCams
+cam4.de.com###tokenAwarenessOverlay
