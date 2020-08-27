@@ -47,3 +47,5 @@ de.chaturbate.com###main > div:last-child > div:nth-child(6) > div:last-child > 
 de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container.no-popunder:nth-child(4) > div.wih-spb.wih-spa:last-child
 cam4.de.com###relatedCams
 cam4.de.com###tokenAwarenessOverlay
+start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body:nth-child(4) > div.page-container > div.widget-page > div.widget-page__header:first-child > header.header.header_default.header_has-pages-bar > div.header__navigation:first-child > div.header__main-bar > div.header__center:nth-child(2) > div.search-container
+start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body:nth-child(4) > div.page-container > div.widget-page > div.widget-page__header:first-child > header.header.header_default.header_has-pages-bar > div.header__navigation:first-child > div.header__main-bar > div.header__right:last-child > div.header-right > a.header-right__button.header-right__button_type_custom:nth-child(2)
