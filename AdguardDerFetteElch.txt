@@ -51,3 +51,4 @@ start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body:
 start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body:nth-child(4) > div.page-container > div.widget-page > div.widget-page__header:first-child > header.header.header_default.header_has-pages-bar > div.header__navigation:first-child > div.header__main-bar > div.header__right:last-child > div.header-right > a.header-right__button.header-right__button_type_custom:nth-child(2)
 cam4.de.com###video > div.anim_wrapper.bounce-in.august_2020_campaign.de:nth-child(5)
 cam4.de.com###video > span.anim_close:nth-child(4)
+###neatDiv1466910721
