@@ -52,3 +52,20 @@ start.me##div.app:first-child > div.app__main-layout:last-child > div.app__body:
 cam4.de.com###video > div.anim_wrapper.bounce-in.august_2020_campaign.de:nth-child(5)
 cam4.de.com###video > span.anim_close:nth-child(4)
 ###neatDiv1466910721
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.wiu-aright-rectangle.list-items.wiu-aspot-container.native:first-child
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wiu-aplayer.wiu-aspot-container:nth-child(4)
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.wio-aright-rectangle.list-items.wio-aspot-container.native:first-child
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wio-aplayer.wio-aspot-container:nth-child(4)
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div.wio-aspb.wio-aspa:last-child
+##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.wio-aright-rectangle.list-items.wio-aspot-container:first-child
+##div.main-wrap:nth-child(3) > main:nth-child(2) > div.width-wrap > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.wio-aright-rectangle.list-items.wio-aspot-container.native:first-child
+##div.main-wrap:nth-child(3) > main:nth-child(2) > div.width-wrap:last-child > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.premium-overlay:nth-child(18)
+@@||derfetteelch.synology.me^$important,document
+youtube.com###contents > ytd-rich-item-renderer.style-scope.ytd-rich-grid-renderer:first-child
+de.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap > article:last-child > div.mixed-section.index-videos:last-child > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.premium-overlay:nth-child(58)
+login.webgo.de##div.sitebar:nth-child(2) > div.contract-selector-poll:last-child
+login.webgo.de##div.sitebar:nth-child(2) > div.contract-selector-add:first-child
+cam4.de.com###subfoot
+cam4.de.com###footer
+cam4.de.com###main-content > div > div.profileDisclaimer:nth-child(6)
+###roomTabs > div.BioContents:nth-child(2) > table > tr:nth-child(16)
