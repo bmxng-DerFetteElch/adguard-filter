@@ -69,3 +69,4 @@ cam4.de.com###subfoot
 cam4.de.com###footer
 cam4.de.com###main-content > div > div.profileDisclaimer:nth-child(6)
 ###roomTabs > div.BioContents:nth-child(2) > table > tr:nth-child(16)
+@@||tchibo.de
