@@ -77,3 +77,4 @@ chaturbate.com##div.RoomSignupPopup:last-child
 youtube.com###contents > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer:nth-child(8)
 ###contents > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer:nth-child(5)
 deu.xhamster.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap > article:last-child > div.mixed-section.index-videos:nth-child(4) > div.thumb-list.thumb-list--margin.thumb-list--sidebar.thumb-list--banner:first-child > div.wio-dright-rectangle.wio-dright-rectangle--video.wio-d:first-child
+cam4.de.com###app > div.pageContainer:first-child > div.pageContent:nth-child(3) > div.Directory__content__2xm21:last-child > div.Directory__aboveFooterWrap__hDD7a:last-child
